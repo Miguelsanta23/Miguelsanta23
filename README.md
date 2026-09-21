@@ -1,5 +1,7 @@
 # 👋 Hola, bienvenido a mi perfil
 
+![Banner](banner_miguel.png)
+
 ## Miguel Ángel Santafé Castrillón
 ### Estudiante de Ingeniería
 
