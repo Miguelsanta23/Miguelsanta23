@@ -48,6 +48,7 @@ Me gusta el trabajo en equipo, resolver problemas y seguir construyendo una base
 ## 💼 Trabajo actualmente
 
 **[Pinturas Nacionales (Pintunal)](https://pintunal.com.co/)**
+![Pintunal](Pinturas_nacionales.png)
 
 ---
 
